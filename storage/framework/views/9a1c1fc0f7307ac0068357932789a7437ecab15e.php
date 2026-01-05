@@ -1,0 +1,1 @@
+<?php echo e(Cart::instance('shopping')->count()); ?><?php /**PATH /home/u315696686/domains/buyshop.borbila.net/public_html/resources/views/frontEnd/layouts/ajax/mobilecart_qty.blade.php ENDPATH**/ ?>

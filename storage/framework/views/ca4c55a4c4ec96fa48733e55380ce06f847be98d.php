@@ -1,0 +1,1 @@
+<?php /**PATH /home/filekinb/borbix.incomekori.com/resources/views/backEnd/campaign/index.blade.php ENDPATH**/ ?>
